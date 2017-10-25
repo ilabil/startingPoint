@@ -1,4 +1,6 @@
-define(['chart', 'ractive'], function(chart, ractive) {
+define(['chart', 'ractive'], 
+
+function(chart, ractive) {
 	'use strict';
 
 	var years = [1500, 1600, 1700, 1750, 1800, 1850, 1900, 1950, 1999, 2050];
